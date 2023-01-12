@@ -39,6 +39,13 @@ const config = {
   experiences: [
   ],
    certifications: [
+         {
+      name: 'Security+',
+      body: '',
+      year: 'November 2021',
+      link: 'https://www.credly.com/badges/c4e84f7e-2e38-4aea-a556-56fd96440a72',
+    },
+     
   ],
   education: [
     {
