@@ -41,7 +41,7 @@ const config = {
    certifications: [
     {
       name: 'Security+',
-      body: 'Certification that I\' I have learned security concepts.',
+      body: 'Certification that I have learned basic security concepts.',
       year: 'November 2021',
       link: 'https://www.credly.com/badges/c4e84f7e-2e38-4aea-a556-56fd96440a72',
     },
